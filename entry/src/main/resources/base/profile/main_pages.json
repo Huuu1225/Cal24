@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/CommonResult",
+    "pages/CommonMode",
+    "pages/Index",
+    "pages/DeadMode"
+  ]
+}
